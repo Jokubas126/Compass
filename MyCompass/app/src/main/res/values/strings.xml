@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCompass</string>
+    <string name="compass_image">Compass Image</string>
+    <string name="arrow_image">Arrow Image</string>
+    <string name="text">The angle is</string>
+    <string name="text_angle">angle</string>
+</resources>
